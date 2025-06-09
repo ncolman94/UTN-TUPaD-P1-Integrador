@@ -145,15 +145,3 @@ if resultado_final:
         print(s)
 else:
     print("No se encontraron coincidencias.")
-
-
-
-
-
-
-
-
-
-
-
-
