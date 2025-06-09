@@ -21,5 +21,5 @@ README.md            → Este archivo
 
 ## Autores
 
-- [Fernando Caputo](https://github.com/Sonora98)
-- [Nicolás Colman](https://github.com/ncolman94)
+- [Fernando Caputo - Comisión 11](https://github.com/Sonora98)
+- [Nicolás Colman - Comisión 11](https://github.com/ncolman94)
