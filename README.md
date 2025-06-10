@@ -13,10 +13,19 @@ Además se implementaron funcionalidades avanzadas de filtrado por múltiples cr
 ## Estructura del Repositorio
 
 ```
-/docs                → Capturas de pantalla de los procesos
+/docs                → Documentos utilizados en el desarrollo del proyecto
 /src                 → Código fuente en Python
 README.md            → Este archivo
 ```
+---
+
+---
+
+## Video explicativo
+
+
+[Link del video](https://youtu.be/fk2zoniY1BQ)
+
 ---
 
 ## Autores
